@@ -18,6 +18,10 @@ I am also currently working on [YarpBot](https://yarpbot.com), a Twitch Bot that
 
 I <i>WELCOME</i> it.
 
+## [ShoutBot](https://shoutbot.io)
+
+A project for making a Discord bot that prints text you send it in MUCH LARGER TEXT for REALLY getting Chat's attention.  Cuz YES, this was NEEDED in the world.
+
 ## Stats and Such
 
 Cuz everybody has one of these.
