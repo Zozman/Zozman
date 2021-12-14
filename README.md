@@ -22,7 +22,13 @@ I <i>WELCOME</i> it.
 
 A project for making a Discord bot that prints text you send it in MUCH LARGER TEXT for REALLY getting Chat's attention.  Cuz YES, this was NEEDED in the world.
 
-## Stats and Such
+# Previous Projects
+
+## [TheWargarble](https://twitch.tv/theWargarble)
+
+Previously served as one of the broadcasters of [TheWargarble](https://twitch.tv/theWargarble), a Twitch Channel specializing in playing with the community.  Currently on indefinite hiatus due to.... well a lot of stuff really.
+
+# Stats and Such
 
 Cuz everybody has one of these.
 
