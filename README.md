@@ -1,6 +1,6 @@
 # Hi!
 
-![Zozman's Twitter](https://img.shields.io/twitter/follow/zwlovoy?style=for-the-badge)
+![Zozman's Twitter](https://img.shields.io/twitter/follow/zwlovoy?style=for-the-badge&color=1DA1F2&logo=twitter&)
 
 So if you're reading this, well I guess your interested in who I am and what all I'm doing.  Neat.
 
