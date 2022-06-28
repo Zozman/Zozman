@@ -4,13 +4,13 @@
 
 So if you're reading this, well I guess your interested in who I am and what all I'm doing.  Neat.
 
-My name's Zac, and I am a Software Engineer currently living in California.  I have a Masters degree from Carnegie Mellon University in Information Systems Management and a Batchelors in Management Information Systems from the University of Alabama.
+My name's Zac, and I am a Software Engineer currently living in California.  I have a Masters degree from Carnegie Mellon University in Information Systems Management and a Bachelors in Management Information Systems from the University of Alabama.
 
 # Current Work
 
 ## [Cisco Intersight](https://intersight.com)
 
-Currently I am an engineer on the [Cisco Intersight](https://intersight.com) project, where I am a Technical Lead on the Core UI Team.  As a member of the Core UI team, I work with the rest of the team on implementing a solid and consistent User Interface using WebComponents.  My duities also include CDN management, working on various microservices using Docker and Kubernetes, 3rd Party integrations for analytics and error reporting, and whatever else my boss tells me I'm working on and needs to get fixed.
+Currently I am an engineer on the [Cisco Intersight](https://intersight.com) project, where I am a Technical Lead on the Core UI Team.  As a member of the Core UI team, I work with the rest of the team on implementing a solid and consistent User Interface using WebComponents.  My duties also include CDN management, working on various microservices using Docker and Kubernetes, 3rd Party integrations for analytics and error reporting, and whatever else my boss tells me I'm working on and needs to get fixed.
 
 ## [YarpBot](https://yarpbot.com)
 
